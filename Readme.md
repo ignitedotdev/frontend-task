@@ -1,8 +1,10 @@
 ## ignite.dev frontend assessment
 
-<img width="1507" alt="image" src="https://github.com/ignitedotdev/frontend-task/assets/32944039/800691b2-ab7a-4eea-853e-7d1dc743daf6">
-The image above is the [Airbnb](https://www.airbnb.com/) landing page, your taks is to replicate it using Nuxtjs, Tailwind and Typescript.
+<img width="1267" alt="image" src="https://github.com/ignitedotdev/frontend-task/assets/32944039/faf87b58-69ed-495e-a52f-9fab4c3111ae">
 
-When you're done, kindly send a link to your github repo to task_submission@ignite.dev
+The image above is the [Airbnb](https://www.airbnb.com/) landing page, your taks is to replicate it using Nuxtjs, Tailwind and Typescript and Axios
+You can use https://dummyjson.com/ as a backend api
+
+When you're done, kindly send a link to your github repo to pre-assesment@ignite.dev
 
 Goodluck !
